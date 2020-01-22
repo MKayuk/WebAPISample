@@ -1,0 +1,7 @@
+{
+  "Database": "Oracle",
+  "ConnectionStrings": {
+    "CiscoDocker": "Data Source=localhost:49161;User Id=Cisco;Password=cisco;",
+    "XeDocker": "Data Source=localhost:49161;User Id=system;Password=oracle;"
+  }
+}

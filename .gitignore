@@ -1,0 +1,10 @@
+.vs/*
+WebAPI.API/bin/*
+WebAPI.API/obj/*
+WebAPI.Domain/bin/*
+WebAPI.Domain/obj/*
+WebAPI.Infrastructure/bin/*
+WebAPI.Infrastructure/obj/*
+*.dll
+*.pdb
+*.exe
